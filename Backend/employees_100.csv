@@ -1,0 +1,101 @@
+email,password,first_name,last_name,department,role
+aarav.sharma1@example.com,Password@123,Aarav,Sharma,IT,Developer
+vivaan.verma2@example.com,Password@123,Vivaan,Verma,IT,Tester
+aditya.gupta3@example.com,Password@123,Aditya,Gupta,IT,System Administrator
+arjun.kumar4@example.com,Password@123,Arjun,Kumar,HR,HR Executive
+krishna.singh5@example.com,Password@123,Krishna,Singh,HR,HR Manager
+rohan.patel6@example.com,Password@123,Rohan,Patel,Finance,Accountant
+rahul.mehta7@example.com,Password@123,Rahul,Mehta,Finance,Financial Analyst
+amit.joshi8@example.com,Password@123,Amit,Joshi,Finance,Finance Manager
+karan.malhotra9@example.com,Password@123,Karan,Malhotra,Sales,Sales Executive
+nikhil.agarwal10@example.com,Password@123,Nikhil,Agarwal,Sales,Sales Manager
+vikram.sharma11@example.com,Password@123,Vikram,Sharma,Operations,Operations Executive
+suresh.verma12@example.com,Password@123,Suresh,Verma,Operations,Operations Manager
+ankit.gupta13@example.com,Password@123,Ankit,Gupta,Quality,Quality Analyst
+manish.kumar14@example.com,Password@123,Manish,Kumar,Quality,Quality Manager
+varun.singh15@example.com,Password@123,Varun,Singh,Compliance,Compliance Officer
+raj.patel16@example.com,Password@123,Raj,Patel,Compliance,Compliance Manager
+akash.mehta17@example.com,Password@123,Akash,Mehta,Audit,Internal Auditor
+ravi.joshi18@example.com,Password@123,Ravi,Joshi,Audit,Audit Manager
+mohit.malhotra19@example.com,Password@123,Mohit,Malhotra,Procurement,Procurement Executive
+siddharth.agarwal20@example.com,Password@123,Siddharth,Agarwal,Procurement,Procurement Manager
+priya.sharma21@example.com,Password@123,Priya,Sharma,IT,Developer
+ananya.verma22@example.com,Password@123,Ananya,Verma,IT,Tester
+neha.gupta23@example.com,Password@123,Neha,Gupta,IT,System Administrator
+pooja.kumar24@example.com,Password@123,Pooja,Kumar,HR,HR Executive
+sneha.singh25@example.com,Password@123,Sneha,Singh,HR,HR Manager
+riya.patel26@example.com,Password@123,Riya,Patel,Finance,Accountant
+kavya.mehta27@example.com,Password@123,Kavya,Mehta,Finance,Financial Analyst
+shreya.joshi28@example.com,Password@123,Shreya,Joshi,Finance,Finance Manager
+isha.malhotra29@example.com,Password@123,Isha,Malhotra,Sales,Sales Executive
+nisha.agarwal30@example.com,Password@123,Nisha,Agarwal,Sales,Sales Manager
+aditi.sharma31@example.com,Password@123,Aditi,Sharma,Operations,Operations Executive
+meera.verma32@example.com,Password@123,Meera,Verma,Operations,Operations Manager
+simran.gupta33@example.com,Password@123,Simran,Gupta,Quality,Quality Analyst
+tanya.kumar34@example.com,Password@123,Tanya,Kumar,Quality,Quality Manager
+divya.singh35@example.com,Password@123,Divya,Singh,Compliance,Compliance Officer
+swati.patel36@example.com,Password@123,Swati,Patel,Compliance,Compliance Manager
+pallavi.mehta37@example.com,Password@123,Pallavi,Mehta,Audit,Internal Auditor
+ritu.joshi38@example.com,Password@123,Ritu,Joshi,Audit,Audit Manager
+sakshi.malhotra39@example.com,Password@123,Sakshi,Malhotra,Procurement,Procurement Executive
+komal.agarwal40@example.com,Password@123,Komal,Agarwal,Procurement,Procurement Manager
+aarav.sharma41@example.com,Password@123,Aarav,Sharma,IT,Developer
+vivaan.verma42@example.com,Password@123,Vivaan,Verma,IT,Tester
+aditya.gupta43@example.com,Password@123,Aditya,Gupta,IT,System Administrator
+arjun.kumar44@example.com,Password@123,Arjun,Kumar,HR,HR Executive
+krishna.singh45@example.com,Password@123,Krishna,Singh,HR,HR Manager
+rohan.patel46@example.com,Password@123,Rohan,Patel,Finance,Accountant
+rahul.mehta47@example.com,Password@123,Rahul,Mehta,Finance,Financial Analyst
+amit.joshi48@example.com,Password@123,Amit,Joshi,Finance,Finance Manager
+karan.malhotra49@example.com,Password@123,Karan,Malhotra,Sales,Sales Executive
+nikhil.agarwal50@example.com,Password@123,Nikhil,Agarwal,Sales,Sales Manager
+vikram.sharma51@example.com,Password@123,Vikram,Sharma,Operations,Operations Executive
+suresh.verma52@example.com,Password@123,Suresh,Verma,Operations,Operations Manager
+ankit.gupta53@example.com,Password@123,Ankit,Gupta,Quality,Quality Analyst
+manish.kumar54@example.com,Password@123,Manish,Kumar,Quality,Quality Manager
+varun.singh55@example.com,Password@123,Varun,Singh,Compliance,Compliance Officer
+raj.patel56@example.com,Password@123,Raj,Patel,Compliance,Compliance Manager
+akash.mehta57@example.com,Password@123,Akash,Mehta,Audit,Internal Auditor
+ravi.joshi58@example.com,Password@123,Ravi,Joshi,Audit,Audit Manager
+mohit.malhotra59@example.com,Password@123,Mohit,Malhotra,Procurement,Procurement Executive
+siddharth.agarwal60@example.com,Password@123,Siddharth,Agarwal,Procurement,Procurement Manager
+priya.sharma61@example.com,Password@123,Priya,Sharma,IT,Developer
+ananya.verma62@example.com,Password@123,Ananya,Verma,IT,Tester
+neha.gupta63@example.com,Password@123,Neha,Gupta,IT,System Administrator
+pooja.kumar64@example.com,Password@123,Pooja,Kumar,HR,HR Executive
+sneha.singh65@example.com,Password@123,Sneha,Singh,HR,HR Manager
+riya.patel66@example.com,Password@123,Riya,Patel,Finance,Accountant
+kavya.mehta67@example.com,Password@123,Kavya,Mehta,Finance,Financial Analyst
+shreya.joshi68@example.com,Password@123,Shreya,Joshi,Finance,Finance Manager
+isha.malhotra69@example.com,Password@123,Isha,Malhotra,Sales,Sales Executive
+nisha.agarwal70@example.com,Password@123,Nisha,Agarwal,Sales,Sales Manager
+aditi.sharma71@example.com,Password@123,Aditi,Sharma,Operations,Operations Executive
+meera.verma72@example.com,Password@123,Meera,Verma,Operations,Operations Manager
+simran.gupta73@example.com,Password@123,Simran,Gupta,Quality,Quality Analyst
+tanya.kumar74@example.com,Password@123,Tanya,Kumar,Quality,Quality Manager
+divya.singh75@example.com,Password@123,Divya,Singh,Compliance,Compliance Officer
+swati.patel76@example.com,Password@123,Swati,Patel,Compliance,Compliance Manager
+pallavi.mehta77@example.com,Password@123,Pallavi,Mehta,Audit,Internal Auditor
+ritu.joshi78@example.com,Password@123,Ritu,Joshi,Audit,Audit Manager
+sakshi.malhotra79@example.com,Password@123,Sakshi,Malhotra,Procurement,Procurement Executive
+komal.agarwal80@example.com,Password@123,Komal,Agarwal,Procurement,Procurement Manager
+aarav.sharma81@example.com,Password@123,Aarav,Sharma,IT,Developer
+vivaan.verma82@example.com,Password@123,Vivaan,Verma,IT,Tester
+aditya.gupta83@example.com,Password@123,Aditya,Gupta,IT,System Administrator
+arjun.kumar84@example.com,Password@123,Arjun,Kumar,HR,HR Executive
+krishna.singh85@example.com,Password@123,Krishna,Singh,HR,HR Manager
+rohan.patel86@example.com,Password@123,Rohan,Patel,Finance,Accountant
+rahul.mehta87@example.com,Password@123,Rahul,Mehta,Finance,Financial Analyst
+amit.joshi88@example.com,Password@123,Amit,Joshi,Finance,Finance Manager
+karan.malhotra89@example.com,Password@123,Karan,Malhotra,Sales,Sales Executive
+nikhil.agarwal90@example.com,Password@123,Nikhil,Agarwal,Sales,Sales Manager
+vikram.sharma91@example.com,Password@123,Vikram,Sharma,Operations,Operations Executive
+suresh.verma92@example.com,Password@123,Suresh,Verma,Operations,Operations Manager
+ankit.gupta93@example.com,Password@123,Ankit,Gupta,Quality,Quality Analyst
+manish.kumar94@example.com,Password@123,Manish,Kumar,Quality,Quality Manager
+varun.singh95@example.com,Password@123,Varun,Singh,Compliance,Compliance Officer
+raj.patel96@example.com,Password@123,Raj,Patel,Compliance,Compliance Manager
+akash.mehta97@example.com,Password@123,Akash,Mehta,Audit,Internal Auditor
+ravi.joshi98@example.com,Password@123,Ravi,Joshi,Audit,Audit Manager
+mohit.malhotra99@example.com,Password@123,Mohit,Malhotra,Procurement,Procurement Executive
+siddharth.agarwal100@example.com,Password@123,Siddharth,Agarwal,Procurement,Procurement Manager
