@@ -205,3 +205,29 @@
     padding: 28px 22px;
   }
 }
+
+.signup-card {
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+.signup-card select {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 14px 16px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  font-size: 14px;
+  background: white;
+}
+
+.signup-card select:focus {
+  outline: none;
+  border-color: #2563eb;
+}
+
+.success-message {
+  color: #15803d;
+  font-size: 14px;
+  margin: 12px 0;
+}
